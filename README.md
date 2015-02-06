@@ -1,6 +1,7 @@
 Coursera Exploratory Data Analysis
 =========================
 February 2015
+
 This is my repository for the Coursera's course "Exploratory Data Analysis". 
 
 To run this script you need to to the following:
